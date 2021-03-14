@@ -1,0 +1,1 @@
+const weatherClient = new Weather();
